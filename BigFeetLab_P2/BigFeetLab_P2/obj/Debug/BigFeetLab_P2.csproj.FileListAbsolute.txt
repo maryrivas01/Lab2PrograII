@@ -1,0 +1,11 @@
+C:\Users\Maria\OneDrive\Escritorio\PrograII\BigFeetLab_P2\BigFeetLab_P2\bin\Debug\BigFeetLab_P2.exe.config
+C:\Users\Maria\OneDrive\Escritorio\PrograII\BigFeetLab_P2\BigFeetLab_P2\bin\Debug\BigFeetLab_P2.exe
+C:\Users\Maria\OneDrive\Escritorio\PrograII\BigFeetLab_P2\BigFeetLab_P2\bin\Debug\BigFeetLab_P2.pdb
+C:\Users\Maria\OneDrive\Escritorio\PrograII\BigFeetLab_P2\BigFeetLab_P2\obj\Debug\BigFeetLab_P2.csproj.AssemblyReference.cache
+C:\Users\Maria\OneDrive\Escritorio\PrograII\BigFeetLab_P2\BigFeetLab_P2\obj\Debug\BigFeetLab_P2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maria\OneDrive\Escritorio\PrograII\BigFeetLab_P2\BigFeetLab_P2\obj\Debug\BigFeetLab_P2.Form1.resources
+C:\Users\Maria\OneDrive\Escritorio\PrograII\BigFeetLab_P2\BigFeetLab_P2\obj\Debug\BigFeetLab_P2.Properties.Resources.resources
+C:\Users\Maria\OneDrive\Escritorio\PrograII\BigFeetLab_P2\BigFeetLab_P2\obj\Debug\BigFeetLab_P2.csproj.GenerateResource.cache
+C:\Users\Maria\OneDrive\Escritorio\PrograII\BigFeetLab_P2\BigFeetLab_P2\obj\Debug\BigFeetLab_P2.csproj.CoreCompileInputs.cache
+C:\Users\Maria\OneDrive\Escritorio\PrograII\BigFeetLab_P2\BigFeetLab_P2\obj\Debug\BigFeetLab_P2.exe
+C:\Users\Maria\OneDrive\Escritorio\PrograII\BigFeetLab_P2\BigFeetLab_P2\obj\Debug\BigFeetLab_P2.pdb
